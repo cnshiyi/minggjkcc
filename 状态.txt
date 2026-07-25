@@ -8991,3 +8991,14 @@
 见微感知 | 未检索到同名公司（含见微字样的企业较多） | 未检索到同名商标 | .com:jianweiganzhi.com 可注册 | .cn:jianweiganzhi.cn 可注册 | 综合:可用
 春山数据 | 未检索到同名公司（春山字头数据企业较多，建议二次复核） | 未检索到同名商标 | .com:chunshanshuju.com 可注册 | .cn:chunshanshuju.cn 可注册 | 综合:可用
 === 结束 ===
+
+=== 批次 2026-07-25 19:36 ===
+流光计算 | 未查到同名公司（仅近似"流光云算"） | 未查到冲突商标 | .com:liuguangjisuan.com 可注册 | .cn:liuguangjisuan.cn 可注册 | 综合:可用
+腾云飞行 | 未查到同名公司（仅近似"腾云飞空"） | 未查到冲突商标 | .com:tengyunfeixing.com 可注册 | .cn:tengyunfeixing.cn 可注册 | 综合:可用
+疾风生长 | 未查到同名公司 | 未查到冲突商标 | .com:jifengshengzhang.com 可注册 | .cn:jifengshengzhang.cn 可注册 | 综合:可用
+木光新芽 | 未查到同名公司 | 未查到冲突商标 | .com:muguangxinya.com 可注册 | .cn:muguangxinya.cn 可注册 | 综合:可用
+江海同潮 | 未查到同名公司 | 未查到冲突商标 | .com:jianghaitongchao.com 可注册 | .cn:jianghaitongchao.cn 可注册 | 综合:可用
+千象更新 | 未查到同名公司 | 未查到冲突（"千象"系列近似但非高度近似） | .com:qianxianggengxin.com 可注册 | .cn:qianxianggengxin.cn 可注册 | 综合:可用
+新力同行 | 未查到同名公司 | 未查到冲突商标 | .com:xinlitongxing.com 可注册 | .cn:xinlitongxing.cn 可注册 | 综合:可用
+云上见微 | 未查到同名公司 | 未查到冲突商标 | .com:yunshangjianwei.com 可注册 | .cn:yunshangjianwei.cn 可注册 | 综合:可用
+=== 结束 ===
