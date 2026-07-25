@@ -8980,3 +8980,14 @@
 推开未知 | 未注册 | 无冲突 | .com:可注册 | .cn:可注册 | 综合:可用
 把事做对 | 未注册 | 无冲突 | .com:可注册 | .cn:可注册 | 综合:可用
 === 结束 ===
+
+=== 批次 2026-07-25 19:30 ===
+小树向阳 | 未检索到同名公司 | 未检索到同名商标 | .com:xiaoshuxiangyang.com 可注册 | .cn:xiaoshuxiangyang.cn 可注册 | 综合:可用
+北斗指路 | 未检索到同名公司（北斗为受规范名称，注册前建议二次确认） | 未检索到同名商标 | .com:beidouzhilu.com 可注册 | .cn:beidouzhilu.cn 可注册 | 综合:可用
+微光寻路 | 未检索到同名公司 | 未检索到同名商标 | .com:weiguangxunlu.com 可注册 | .cn:weiguangxunlu.cn 可注册 | 综合:可用
+旷野求新 | 未检索到同名公司（近似深圳市旷野创新） | 未检索到同名商标 | .com:kuangyeqiuxin.com 可注册 | .cn:kuangyeqiuxin.cn 可注册 | 综合:可用
+远近通联 | 未检索到同名公司（近似北京远光通联） | 未检索到同名商标 | .com:yuanjintonglian.com 可注册 | .cn:yuanjintonglian.cn 可注册 | 综合:可用
+清风数读 | 未检索到同名公司 | 未检索到同名商标 | .com:qingfengshudu.com 可注册 | .cn:qingfengshudu.cn 可注册 | 综合:可用
+见微感知 | 未检索到同名公司（含见微字样的企业较多） | 未检索到同名商标 | .com:jianweiganzhi.com 可注册 | .cn:jianweiganzhi.cn 可注册 | 综合:可用
+春山数据 | 未检索到同名公司（春山字头数据企业较多，建议二次复核） | 未检索到同名商标 | .com:chunshanshuju.com 可注册 | .cn:chunshanshuju.cn 可注册 | 综合:可用
+=== 结束 ===
